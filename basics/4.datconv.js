@@ -11,5 +11,8 @@ let numtext=Number(name1)
 console.log(typeof(numtext));
 console.log(numtext);
 //like wise we can also use Boolean to convert into boolean values and string vlaues it somewhat like type casting in c
-
+console.log("22"+"88"+(22+44));
+//datatype of different data
+// null>>object , undefined>>undefined
+//all non primitive data types like (object function array) have finction datatype
 

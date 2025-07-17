@@ -17,8 +17,8 @@ console.log(" B ", arr1);//splice original arrow ko manipulate bhi krta hai
 let arr3=[1,2,3,4,5,6,8]
 let arr4=[1,2,3,4,5,6,8]
 let arrn=arr3.concat(arr4);
-console.log(arrn);
-console.log(arr3.push(arr4))//push pe  consol log lagane se array ka length de dega 
+console.log("concat",arrn);
+console.log("push",arr3.push(arr4))//push pe  consol log lagane se array ka length de dega 
 console.log(arr3);
 
 //
